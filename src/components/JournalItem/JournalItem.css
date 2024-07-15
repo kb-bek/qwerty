@@ -1,0 +1,16 @@
+
+
+.journal-item-heading {
+    margin: 0;
+    font-size: 18px;
+}
+
+.journal-item-body {
+    display: flex;
+    gap: 10px;
+}
+
+.journal-item-date, .journal-item-text{
+    font-size: 15px;
+    font-weight: 400;
+}
